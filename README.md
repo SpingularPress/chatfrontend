@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Spingular/frontend.svg?branch=master)](https://travis-ci.org/Spingular/frontend)
+
 # spingularui
 
 This application was generated using JHipster 6.3.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.3.0](https://www.jhipster.tech/documentation-archive/v6.3.0).
